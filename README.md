@@ -4,7 +4,8 @@
 ---
 This is a quick barebones hello-world boilerplate for angular 2 web applications. 
 
-##To start the application:
+###To start the application
+---
 
 - clone the repo using `git clone https://github.com/projectSHAI/angular2-quickstart`
 
